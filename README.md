@@ -1,13 +1,4 @@
 # usbguard-applet-qt
-Qt applet for interacting with the [usbguard](https://github.com/dkopecek/usbguard) daemon.
 
-## Screenshots
+This repository is *OBSOLETE*. The usbguard-applet-qt source code was merged into the [usbguard](https://github.com/dkopecek/usbguard) project and will be maintained there.
 
-### Notifications
-![USGuard Qt Applet notification](/screenshots/notification.png?raw=true "USBGuard Qt Applet notification")
-
-### Device Dialog
-![USGuard Qt Applet device dialog](/screenshots/devicedialog.png?raw=true "USBGuard Qt Applet device dialog")
-
-### Message Log
-![USGuard Qt Applet message log](/screenshots/messages.png?raw=true "USBGuard Qt Applet message log")
